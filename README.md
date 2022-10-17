@@ -11,11 +11,5 @@ https://towardsdatascience.com/build-a-plagiarism-checker-using-machine-learning
 https://ieee-dataport.org/open-access/programming-homework-dataset-plagiarism-detection #Already downloaded the dataset, its 1.2 gigs, too big to upload
 
 
-
-
-
-
-
-
 Citations:
 Vedran Ljubovic, May 8, 2020, "Programming Homework Dataset for Plagiarism Detection", IEEE Dataport, doi: https://dx.doi.org/10.21227/71fw-ss32. 
