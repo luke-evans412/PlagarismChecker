@@ -16,7 +16,8 @@ https://aclanthology.org/ (The ACL Anthology currently hosts 80612 papers on the
 Computer Science Assignment Text Dataset:
   Original paper pdf (pages 5 through 9 discuss how dataset was created): 
     https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3f79f4ae839317858d578a11c7454d04253a13ea
- Dataset is in repository folder labeled "textData".
+
+Dataset is in repository folder labeled "textData".
 
 Citations:
 Vedran Ljubovic, May 8, 2020, "Programming Homework Dataset for Plagiarism Detection", IEEE Dataport, doi: https://dx.doi.org/10.21227/71fw-ss32. 
